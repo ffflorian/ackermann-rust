@@ -1,0 +1,4 @@
+[package]
+name = "ackermann"
+version = "0.0.1"
+authors = ["Florian Keller <github@floriankeller.de>"]
